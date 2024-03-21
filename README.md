@@ -9,7 +9,7 @@ This is a Laravel application that serves as a task for the Back-end department 
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/atw-backend-task.git
+1. Clone the repository: git clone https://github.com/sowidan1/atw-backend-task.git
 
 2. Install dependencies:
    
