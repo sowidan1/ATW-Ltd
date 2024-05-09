@@ -1,6 +1,4 @@
-# ATW Back-end Task
-
-This is a Laravel application that serves as a task for the Back-end department at ATW Ltd. The application includes an authentication system with Sanctum, tags and posts API resources, and scheduled jobs.
+# Tagger
 
 ## Requirements
 
